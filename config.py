@@ -10,5 +10,5 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 HOST = "0.0.0.0"
 PORT = 8000
 
-# Базовый URL для вебхуков
-BASE_WEBHOOK_URL = "http://your-domain.com/webhook"  # Замените на ваш домен 
+# Базовый URL для вебхуков (замените на ваш домен)
+BASE_WEBHOOK_URL = "http://riterax.com/webhook"  # Ваш домен 
